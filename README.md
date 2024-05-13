@@ -14,4 +14,4 @@ Homework for the class of [Network Dynamics and Learning](https://didattica.poli
 
 **Homework 3**, [report](ND_Homework_3.pdf)
 
-- Epicemids and Pairwise Interacting Network Systems: SIR epidemic model, pandemic with/without vaccination, coloring problem
+- Epidemics and Pairwise Interacting Network Systems: SIR epidemic model, pandemic with/without vaccination, coloring problem
